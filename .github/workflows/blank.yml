@@ -1,0 +1,3 @@
+git clone https://github.com/Kaijun/hexo-theme-huxblog.git
+cd hexo-theme-huxblog
+npm install
